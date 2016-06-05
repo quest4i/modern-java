@@ -1,4 +1,4 @@
-package cc.quest4i.moderjava.e01;
+package cc.quest4i.modernjava.e01;
 
 
 import java.util.ArrayList;
