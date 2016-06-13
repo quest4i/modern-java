@@ -1,0 +1,10 @@
+.graddle
+build/
+bin/
+
+#IDEA
+out/
+.idea
+*.iws
+*.iml
+*.ipr
