@@ -13,7 +13,9 @@ import java.util.stream.Stream;
 
 
 /**
- * Created by samyeong-gu on 2016. 6. 5..
+ * Created on 2016. 6. 5. 오후 6:37.
+ *
+ * @author samyeong-gu
  */
 public class LambdaExample {
 

@@ -23,7 +23,9 @@ import static java.util.stream.Collectors.toList;
 
 
 /**
- * Created by quest4i on 2016. 6. 6..
+ * Created on 2016. 6. 6. 오후 6:37.
+ *
+ * @author quest4i
  */
 public class WhyJava8 {
 
